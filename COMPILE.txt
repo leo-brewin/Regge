@@ -1,0 +1,12 @@
+The code is written in Ada. It should compile as it stands. A good free compiler for Ada can
+be found at
+
+  https://www.adacore.com/download/more
+
+The code can be compiled using either
+
+   gnatmake check.adb
+
+or
+
+   gprbuild -p -P check.gpr

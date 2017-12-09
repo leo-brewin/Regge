@@ -1,0 +1,34 @@
+ 1 # number of bones
+ 1 # which bone
+ 6 # number of vertices for this bone
+30 # number of legs for this bone
+ 1  1
+ 2  2
+ 3  3
+ 4  4
+ 5  5
+ 6  6
+ 7 10
+ 8  7
+ 9  8
+10  9
+11 14
+12 11
+13 12
+14 13
+15 18
+16 15
+17 16
+18 17
+19 22
+20 19
+21 20
+22 21
+23 26
+24 23
+25 24
+26 25
+27 27
+28  4
+29  5
+30  6
