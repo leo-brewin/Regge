@@ -40,7 +40,7 @@ or
 
 There are 8 datasets that can be used to test the code (or compare with other codes). Each data set (found in "data/") consists of just one bone surrounded by 6 vertices. For each data set the expected results can be found in "expected/".
 
-The script check.sh compile and runs the code for dataset and then uses "ndiff" to compare the actual output (in "results/") against the expected results in (in "expected/").
+The script check.sh compiles and runs the code for each dataset and then uses "ndiff" to compare the actual output (in "results/") against the expected results in (in "expected/").
 
 The [ndiff][2] program is a variation of the standard Unix diff program but with a specific focus on comparing numerical data.
 
